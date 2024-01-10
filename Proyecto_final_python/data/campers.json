@@ -1,0 +1,63 @@
+[
+  {
+    "documento": 123456789,
+    "apellidos": "Lopez",
+    "nombre": "Juan",
+    "direccion": "Calle 123",
+    "no_celular": 1234567890,
+    "no_fijo": 987654321,
+    "acudiente": "Ana",
+    "estado": "Aprobado",
+    "no_id": 1,
+    "id_ruta": "ruta1",
+    "trainer": "Trainer1",
+    "ruta": "Ruta NodeJS"
+  },
+  {
+    "documento": 987654321,
+    "apellidos": "Gomez",
+    "nombre": "Maria",
+    "direccion": "Avenida 456",
+    "no_celular": 9876543210,
+    "no_fijo": 123456789,
+    "acudiente": "Pedro",
+    "estado": "Inscrito",
+    "no_id": 2
+  },
+  {
+    "documento": 1094,
+    "apellidos": "avila",
+    "nombre": "carlos",
+    "direccion": "cucuta",
+    "no_celular": 4444,
+    "no_fijo": 44,
+    "acudiente": "mario",
+    "estado": "Aprobado",
+    "id_ruta": "ruta1",
+    "trainer": "Trainer1",
+    "ruta": "Ruta NodeJS"
+  },
+  {
+    "documento": 34,
+    "apellidos": "test",
+    "nombre": "test",
+    "direccion": "test",
+    "no_celular": 0,
+    "no_fijo": 0,
+    "acudiente": "test",
+    "estado": "Aprobado",
+    "id_ruta": "ruta1",
+    "trainer": "Trainer1",
+    "ruta": "Ruta NodeJS"
+  },
+  {
+    "documento": 9,
+    "apellidos": "alves",
+    "nombre": "silvia",
+    "direccion": "rrr",
+    "no_celular": 555,
+    "no_fijo": 555,
+    "acudiente": "frr",
+    "estado": "Inscrito"
+  }
+]
